@@ -37,4 +37,4 @@ Screenshots of key dashboards are available in the `/images` folder.
 - `insights/` – Summary of insights and recommendations  
 
 ## 📌 Author
-Dinesh Kumar
+Dinesh Kumar S
