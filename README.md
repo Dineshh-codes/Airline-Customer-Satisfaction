@@ -27,11 +27,15 @@ This project analyzes airline passenger satisfaction data to identify key driver
 - Improve economy-class digital and service experience
 - Enhance in-flight WiFi and entertainment consistency
 
+## Dataset 
+The dataset is not included in this repository.  
+Please refer to the link provided in the `data/README.md` file to access the original dataset.
+
 ## 📊 Dashboards
 Screenshots of key dashboards are available in the `/images` folder.
 
 ## 📁 Repository Structure
-- `data/` – Dataset used for analysis  
+- `data/` – Dataset link
 - `sql/` – SQL scripts for data preparation and analysis  
 - `powerbi/` – Power BI dashboard file  
 - `insights/` – Summary of insights and recommendations  
