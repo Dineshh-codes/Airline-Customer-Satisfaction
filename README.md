@@ -37,8 +37,7 @@ Screenshots of key dashboards are available in the `/images` folder.
 ## 📁 Repository Structure
 - `data/` – Dataset link
 - `sql/` – SQL scripts for data preparation and analysis  
-- `powerbi/` – Power BI dashboard file  
-- `insights/` – Summary of insights and recommendations  
+- `powerbi/` – Power BI dashboard file
 
 ## 📌 Author
 Dinesh Kumar S
